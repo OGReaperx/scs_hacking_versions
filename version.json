@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "url": "https://scythecode-studios.tebex.io/package/",
+  "downloadUrl": "https://portal.cfx.re/",
+  "changes": [
+    "Complete overhaul of hacking system",
+    "Configurable minigames (ox, bl_ui, ps-ui) - matches robberies style",
+    "Full locale support - no manual locale config",
+    "Version checker",
+    "ATM hacking with target system, XP, leaderboards",
+    "Phone unlock / criminal hack",
+    "MTL truck heist integration",
+    "DUI for target info HUD"
+  ]
+}
