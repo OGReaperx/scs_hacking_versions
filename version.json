@@ -1,15 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://scythecode-studios.tebex.io/package/7024243",
   "downloadUrl": "https://portal.cfx.re/",
   "changes": [
-    "Complete overhaul of hacking system",
-    "Configurable minigames (ox, bl_ui, ps-ui) - matches robberies style",
-    "Full locale support - no manual locale config",
-    "Version checker",
-    "ATM hacking with target system, XP, leaderboards",
-    "Phone unlock / criminal hack",
-    "MTL truck heist integration",
-    "DUI for target info HUD"
+    "Added some new config options to change target radius blip color",
+    "Added Configurable Red Radius Blip Size",
+    "Fixed radius blip pulling its size incorrectly",
+    "Fixed other players being able to find a target when someone has 1 active already",
   ]
 }
